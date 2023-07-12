@@ -5,8 +5,9 @@ import 'styles/global.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Page() {
-  return <h1 className="text-3xl font-bold underline">Frankenstory!</h1>
+  return <h1 className="text-3xl font-bold underline">Frankenstory!!!</h1>
 }
+
 /*export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
